@@ -2,4 +2,4 @@ My name is: Kurt Bryant P. Franco
 For breakfast today, I had: Nothing to eat
 The programming languages I know are: Python and Java
 What I like about programming is: it is fun and interesting
-What I dislike about programming is: the learning never stops, I hate coding
+What I dislike about programming is: the learning never stops, I hate coding, but I love programming   
